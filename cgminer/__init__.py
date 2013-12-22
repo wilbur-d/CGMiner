@@ -1,0 +1,1 @@
+from .cgminer import CGMiner
